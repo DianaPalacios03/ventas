@@ -19,7 +19,7 @@ namespace Venta
 
         private void Procesar_Click(object sender, EventArgs e)
         {;
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Cree en ti y todo sera posible ");
         }
     }
 }
